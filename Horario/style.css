@@ -1,0 +1,100 @@
+
+
+4 de 6
+(sense assumpte)
+Safata d'entrada
+
+Kike Tabero Jaén <kike.taberoj@educem.net>
+Fitxers adjunts
+dt., 21 d’oct. 2025 8:09
+per a mi
+
+Sembla que aquest missatge està en anglès
+
+ Un fitxer adjunt
+  •  Escanejat per Gmail
+kike284. Prem el tabulador per inserir el text suggerit.
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.colorRed {
+    color: red
+}
+
+.colorblue {
+    color: blue
+}
+
+.colorGreen {
+    color: green
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #aaa;
+    padding: 10px;
+}
+
+th {
+    background-color: #eee;
+}
+
+/* Colores por asignatura */
+.mme {
+    background-color: #f28c8c;
+}
+
+/* MME (M0221) */
+.ang {
+    background-color: #f4c27c;
+}
+
+/* ANG (M0156) */
+.ipo1,
+.ipo2 {
+    background-color: #ffe599;
+}
+
+/* IPO1/IPO2 */
+.aw {
+    background-color: #add8e6;
+}
+
+/* AW (M0228) */
+.som {
+    background-color: #a2c4c9;
+}
+
+/* SOM (M0222) */
+.xl {
+    background-color: #b6d7a8;
+}
+
+/* XL (M0225) */
+.ao {
+    background-color: #9fc5e8;
+}
+
+/* AO (M0223) */
+.optatiu {
+    background-color: #b4a7d6;
+}
+
+/* M. Optatiu 2 */
+.tutoria {
+    background-color: #f9cb9c;
+}
+
+/* Tutoria */
